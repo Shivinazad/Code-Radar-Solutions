@@ -4,7 +4,7 @@
 
 int main() {
     double a;
-    scanf("%1f",&a);
+    scanf("%lf",&a);
     printf("You entered: %.4f\n",a);
     return 0;
 }
