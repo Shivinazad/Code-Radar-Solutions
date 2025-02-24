@@ -6,5 +6,5 @@ void main() {
 
     scanf("%d %d", &a, &b);
 
-    printf(a|b); 
+    printf("%d",a|b); 
 }
