@@ -3,5 +3,5 @@
 void main(){
     int a,b;
     scanf("%d %d",&a ,&b);
-    printf("%bool",a>b);
+    (a>b)?"True":"False";
 }
