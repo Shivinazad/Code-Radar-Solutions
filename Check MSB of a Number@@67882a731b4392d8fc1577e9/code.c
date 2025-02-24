@@ -6,9 +6,9 @@ int main() {
     scanf("%d", &num);
 
     if (num < 0) {
-        printf("MSB is Set\n");
+        printf("Set\n");
     } else {
-        printf("MSB is Not Set\n");
+        printf("Not Set\n");
     }
 
     return 0;
