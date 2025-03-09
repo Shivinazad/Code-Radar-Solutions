@@ -7,8 +7,9 @@ int main(){
 
     for (int j=0 ; j<num; j=j+1){
         printf("*");
-        num=num+2;
+        
     }printf("\n");
+    num=num+2;
 }
 
 
