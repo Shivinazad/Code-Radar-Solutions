@@ -13,7 +13,7 @@ int main(){
                 if(j==4 || j==1){
                 printf("*");
                 }else{
-                    printf("*");
+                    printf(" ");
                 }
     }printf("\n");
         }
