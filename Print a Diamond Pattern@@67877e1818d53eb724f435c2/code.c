@@ -15,6 +15,17 @@ int main(){
     num=num+2;
 }
 
+for (int ii = 1; ii<n; ii++){
+        for(int gg =0 ;gg<ii ; gg++){
+            printf(" ");
+        }num = num-2;
+
+    for (int jj=0 ; jj<num; jj++){
+        printf("*");
+        
+    }printf("\n");
+}
+
 
     return 0;
 }
