@@ -20,7 +20,7 @@ for (int ii = 1; ii<n; ii++){
             printf(" ");
         }num = num-2;
 
-    for (int jj=0 ; jj<num; jj++){
+    for (int jj=1 ; jj<num; jj++){
         printf("*");
         
     }printf("\n");
